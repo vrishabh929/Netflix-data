@@ -1,4 +1,13 @@
 # Netflix-data
+
+
+link to the dataset : https://www.kaggle.com/ashishgup/netflix-rotten-tomatoes-metacritic-imdb
+
+Tools used:
+  Microsoft Excel,
+  Microsoft SQL studio,
+  Tableau
+
 Data Cleaning:
 
 1.	 No duplicate records found. Checked with “remove duplicates.
