@@ -1,0 +1,18 @@
+INSIGHTS:
+
+1.	“TITANIC” is the movie with highest grossing movie at Netflix, which collected around 
+$ 659,363,944 with 1048704 IMDB Votes, which won 123 awards in total.
+ 
+(Unfortunately, Titanic is not streaming on Netflix in the U.S.
+However, Titanic is on Netflix in several other regions and countries, including Canada, Germany, South Korea and Switzerland. 
+https://www.tomsguide.com/news/how-to-watch-titanic-online-is-the-movie-streaming-for-free )
+
+2.	Genre with “COMEDY” has the highest count followed by “Drama” , “Action” ,”Animation”
+3.	Number of movies with “COMEDY” genre is high, while Number of series with “Animation” Genre is high.
+4.	The Number of movies and series is more in “English”, followed by “Japanese” , “Korean”, ”Spanish”.
+5.	The movie which has highest IMDB rating is “The Shawshank Redemption” with a rating of 9.3.
+6.	The series which has highest IMDB rating is “Breaking Bad” with a rating of 9.4.
+7.	Most of the Movies and Series has the runtime from 1 hour to 2 hour
+8.	The Movie which has own more number of awards is “Parasite” with 300 awards.
+9.	“Paramount Pictures” is the production house for most of the movies which has produced around 105 movies available on Netflix.
+10.	The top 3 Movies which has received more number of IMDB votes are “The Shawshank Redemption” with 2,354,197 votes, “The Dark Knight” with 2,308,981 votes, “Inception” with 2,072,912.
